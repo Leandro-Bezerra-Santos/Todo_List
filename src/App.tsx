@@ -6,7 +6,7 @@ import { AddArea } from './components/AddArea';
 
 function App() {
   const [list, setList] = useState<Item[]>([
-    {id: 1, name:'', done: false},
+    {id: 1, name:'Tarefas', done: false},
   ]);
 
 
